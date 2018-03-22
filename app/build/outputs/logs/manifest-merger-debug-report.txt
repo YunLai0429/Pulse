@@ -1,0 +1,126 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Android\Pulse\Pulse\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from E:\Android\Pulse\Pulse\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from E:\Android\Pulse\Pulse\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from E:\Android\Pulse\Pulse\app\src\main\AndroidManifest.xml:2:1-45:12
+MERGED from [:OpenCV341] E:\Android\Pulse\Pulse\OpenCV341\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-11:12
+INJECTED from E:\Android\Pulse\Pulse\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from E:\Android\Pulse\Pulse\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from E:\Android\Pulse\Pulse\app\src\main\AndroidManifest.xml:2:1-45:12
+	package
+		ADDED from E:\Android\Pulse\Pulse\app\src\main\AndroidManifest.xml:3:11-40
+		INJECTED from E:\Android\Pulse\Pulse\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android\Pulse\Pulse\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\Android\Pulse\Pulse\app\src\main\AndroidManifest.xml:5:11-36
+		INJECTED from E:\Android\Pulse\Pulse\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android\Pulse\Pulse\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Android\Pulse\Pulse\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from E:\Android\Pulse\Pulse\app\src\main\AndroidManifest.xml:4:11-34
+		INJECTED from E:\Android\Pulse\Pulse\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android\Pulse\Pulse\app\src\main\AndroidManifest.xml
+application
+ADDED from E:\Android\Pulse\Pulse\app\src\main\AndroidManifest.xml:7:5-22:19
+	android:label
+		ADDED from E:\Android\Pulse\Pulse\app\src\main\AndroidManifest.xml:8:9-41
+	android:icon
+		ADDED from E:\Android\Pulse\Pulse\app\src\main\AndroidManifest.xml:9:9-45
+	android:theme
+		ADDED from E:\Android\Pulse\Pulse\app\src\main\AndroidManifest.xml:10:9-56
+activity#pt.chambino.p.pulse.App
+ADDED from E:\Android\Pulse\Pulse\app\src\main\AndroidManifest.xml:12:9-21:20
+	android:screenOrientation
+		ADDED from E:\Android\Pulse\Pulse\app\src\main\AndroidManifest.xml:15:13-49
+	android:configChanges
+		ADDED from E:\Android\Pulse\Pulse\app\src\main\AndroidManifest.xml:14:13-51
+	android:name
+		ADDED from E:\Android\Pulse\Pulse\app\src\main\AndroidManifest.xml:13:13-31
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\Android\Pulse\Pulse\app\src\main\AndroidManifest.xml:17:13-20:29
+action#android.intent.action.MAIN
+ADDED from E:\Android\Pulse\Pulse\app\src\main\AndroidManifest.xml:18:17-68
+	android:name
+		ADDED from E:\Android\Pulse\Pulse\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Android\Pulse\Pulse\app\src\main\AndroidManifest.xml:19:17-76
+	android:name
+		ADDED from E:\Android\Pulse\Pulse\app\src\main\AndroidManifest.xml:19:27-74
+supports-screens
+ADDED from E:\Android\Pulse\Pulse\app\src\main\AndroidManifest.xml:24:5-28:50
+	android:largeScreens
+		ADDED from E:\Android\Pulse\Pulse\app\src\main\AndroidManifest.xml:27:23-50
+	android:smallScreens
+		ADDED from E:\Android\Pulse\Pulse\app\src\main\AndroidManifest.xml:25:23-50
+	android:normalScreens
+		ADDED from E:\Android\Pulse\Pulse\app\src\main\AndroidManifest.xml:26:23-51
+	android:resizeable
+		ADDED from E:\Android\Pulse\Pulse\app\src\main\AndroidManifest.xml:24:23-48
+	android:anyDensity
+		ADDED from E:\Android\Pulse\Pulse\app\src\main\AndroidManifest.xml:28:23-48
+uses-sdk
+ADDED from E:\Android\Pulse\Pulse\app\src\main\AndroidManifest.xml:30:5-42
+INJECTED from E:\Android\Pulse\Pulse\app\src\main\AndroidManifest.xml:30:5-42
+INJECTED from E:\Android\Pulse\Pulse\app\src\main\AndroidManifest.xml:30:5-42
+MERGED from [:OpenCV341] E:\Android\Pulse\Pulse\OpenCV341\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:OpenCV341] E:\Android\Pulse\Pulse\OpenCV341\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+INJECTED from E:\Android\Pulse\Pulse\app\src\main\AndroidManifest.xml:30:5-42
+INJECTED from E:\Android\Pulse\Pulse\app\src\main\AndroidManifest.xml:30:5-42
+	android:targetSdkVersion
+		INJECTED from E:\Android\Pulse\Pulse\app\src\main\AndroidManifest.xml
+		ADDED from E:\Android\Pulse\Pulse\app\src\main\AndroidManifest.xml:30:5-42
+		INJECTED from E:\Android\Pulse\Pulse\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from E:\Android\Pulse\Pulse\app\src\main\AndroidManifest.xml:30:15-40
+		INJECTED from E:\Android\Pulse\Pulse\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android\Pulse\Pulse\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from E:\Android\Pulse\Pulse\app\src\main\AndroidManifest.xml:32:5-64
+	android:name
+		ADDED from E:\Android\Pulse\Pulse\app\src\main\AndroidManifest.xml:32:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\Android\Pulse\Pulse\app\src\main\AndroidManifest.xml:33:5-81
+	android:name
+		ADDED from E:\Android\Pulse\Pulse\app\src\main\AndroidManifest.xml:33:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\Android\Pulse\Pulse\app\src\main\AndroidManifest.xml:34:5-80
+	android:name
+		ADDED from E:\Android\Pulse\Pulse\app\src\main\AndroidManifest.xml:34:22-77
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from E:\Android\Pulse\Pulse\app\src\main\AndroidManifest.xml:35:5-71
+	android:name
+		ADDED from E:\Android\Pulse\Pulse\app\src\main\AndroidManifest.xml:35:22-68
+uses-permission#android.permission.RECORD_VIDEO
+ADDED from E:\Android\Pulse\Pulse\app\src\main\AndroidManifest.xml:36:5-71
+	android:name
+		ADDED from E:\Android\Pulse\Pulse\app\src\main\AndroidManifest.xml:36:22-68
+uses-permission#android.permission.STORAGE
+ADDED from E:\Android\Pulse\Pulse\app\src\main\AndroidManifest.xml:37:5-66
+	android:name
+		ADDED from E:\Android\Pulse\Pulse\app\src\main\AndroidManifest.xml:37:22-63
+uses-feature#android.hardware.camera
+ADDED from E:\Android\Pulse\Pulse\app\src\main\AndroidManifest.xml:40:5-84
+	android:required
+		ADDED from E:\Android\Pulse\Pulse\app\src\main\AndroidManifest.xml:40:58-82
+	android:name
+		ADDED from E:\Android\Pulse\Pulse\app\src\main\AndroidManifest.xml:40:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from E:\Android\Pulse\Pulse\app\src\main\AndroidManifest.xml:41:5-94
+	android:required
+		ADDED from E:\Android\Pulse\Pulse\app\src\main\AndroidManifest.xml:41:68-92
+	android:name
+		ADDED from E:\Android\Pulse\Pulse\app\src\main\AndroidManifest.xml:41:19-67
+uses-feature#android.hardware.camera.front
+ADDED from E:\Android\Pulse\Pulse\app\src\main\AndroidManifest.xml:42:5-90
+	android:required
+		ADDED from E:\Android\Pulse\Pulse\app\src\main\AndroidManifest.xml:42:64-88
+	android:name
+		ADDED from E:\Android\Pulse\Pulse\app\src\main\AndroidManifest.xml:42:19-63
+uses-feature#android.hardware.camera.front.autofocus
+ADDED from E:\Android\Pulse\Pulse\app\src\main\AndroidManifest.xml:43:5-100
+	android:required
+		ADDED from E:\Android\Pulse\Pulse\app\src\main\AndroidManifest.xml:43:74-98
+	android:name
+		ADDED from E:\Android\Pulse\Pulse\app\src\main\AndroidManifest.xml:43:19-73

@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\Android\\Pulse\\Pulse\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "E:\\Android\\Pulse\\Pulse\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2,16,7,13,10,12,11,5,6",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,502,219,439,289,403,347,121,163",
+                        "endColumns": "42,51,41,37,57,35,55,41,55",
+                        "endOffsets": "93,549,256,472,342,434,398,158,214"
+                    },
+                    "to": {
+                        "startLines": "7,8,9,10,11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "345,388,440,482,520,578,614,670,712",
+                        "endColumns": "42,51,41,37,57,35,55,41,55",
+                        "endOffsets": "383,435,477,515,573,609,665,707,763"
+                    }
+                }
+            ]
+        }
+    ]
+}

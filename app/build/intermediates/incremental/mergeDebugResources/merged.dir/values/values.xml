@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CameraBridgeViewBase"><attr format="boolean" name="show_fps"/><attr format="integer" name="camera_id">
+          <enum name="any" value="-1"/>
+          <enum name="back" value="99"/>
+          <enum name="front" value="98"/>
+       </attr></declare-styleable>
+    <string name="app_name">Pulse</string>
+    <string name="average_bpm">Average BPM</string>
+    <string name="config">Config</string>
+    <string name="done">Done</string>
+    <string name="face_detection">Face Detection</string>
+    <string name="fps">FPS</string>
+    <string name="magnification">Magnification</string>
+    <string name="record">Record</string>
+    <string name="switch_camera">Switch Camera</string>
+</resources>

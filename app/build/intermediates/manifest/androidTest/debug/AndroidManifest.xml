@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="pt.chambino.p.pulse.test">
+
+    <uses-sdk android:minSdkVersion="18" android:targetSdkVersion="27" />
+
+    <application android:debuggable="true" >
+        <uses-library android:name="android.test.runner" />
+    </application>
+
+    <instrumentation android:name="android.test.InstrumentationTestRunner"
+                     android:targetPackage="pt.chambino.p.pulse"
+                     android:handleProfiling="false"
+                     android:functionalTest="false"
+                     android:label="Tests for pt.chambino.p.pulse"/>
+</manifest>
